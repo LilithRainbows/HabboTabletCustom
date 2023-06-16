@@ -1,1 +1,3 @@
-# HabboTabletCustom
+****************************
+WARNING: NO LONGER SUPPORTED
+****************************
